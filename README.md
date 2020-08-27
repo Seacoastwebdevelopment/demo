@@ -1,3 +1,3 @@
 # demo
 Demo
-Made a change ti this file and hit 'commit'!
+Made a change to this file and hit 'commit'!
